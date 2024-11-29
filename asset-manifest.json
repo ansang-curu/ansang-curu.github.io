@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ansang-curu.github.io/static/css/main.99652db7.css",
-    "main.js": "/ansang-curu.github.io/static/js/main.06e29058.js",
-    "static/js/453.d85580f4.chunk.js": "/ansang-curu.github.io/static/js/453.d85580f4.chunk.js",
-    "service-worker.js": "/ansang-curu.github.io/service-worker.js",
-    "index.html": "/ansang-curu.github.io/index.html",
-    "main.99652db7.css.map": "/ansang-curu.github.io/static/css/main.99652db7.css.map",
-    "main.06e29058.js.map": "/ansang-curu.github.io/static/js/main.06e29058.js.map",
-    "453.d85580f4.chunk.js.map": "/ansang-curu.github.io/static/js/453.d85580f4.chunk.js.map"
+    "main.css": "/static/css/main.99652db7.css",
+    "main.js": "/static/js/main.82014f61.js",
+    "static/js/453.d85580f4.chunk.js": "/static/js/453.d85580f4.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.99652db7.css.map": "/static/css/main.99652db7.css.map",
+    "main.82014f61.js.map": "/static/js/main.82014f61.js.map",
+    "453.d85580f4.chunk.js.map": "/static/js/453.d85580f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99652db7.css",
-    "static/js/main.06e29058.js"
+    "static/js/main.82014f61.js"
   ]
 }
